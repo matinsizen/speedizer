@@ -1,0 +1,8 @@
+* text=auto
+*.java text
+*.xml text
+*.md text
+*.jar binary
+*.jks binary
+*.png binary
+*.ttf binary
